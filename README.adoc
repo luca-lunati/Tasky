@@ -1,8 +1,4 @@
-== ws6C - Mobile Experience Projekt
-
-=== Bearbeitet von
-
-* Luca Lunati
-* Manuel Wüst
-
+== Simple modern ToDo App with focus on clean Design
+Includes Overview of subtasks, Tasks can be edited and progression is shown based on completed subtasks.
+The goal of this app was to implement the given design, it is not fully functional.
 
